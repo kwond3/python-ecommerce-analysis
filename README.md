@@ -53,7 +53,7 @@ Direct identifiers were removed from the customer data before publication. The a
 1. Clone the repository and enter the project directory:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-ecommerce-analysis.git
+   git clone https://github.com/kwond3/python-ecommerce-analysis.git
    cd python-ecommerce-analysis
    ```
 
